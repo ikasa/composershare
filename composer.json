@@ -1,0 +1,22 @@
+{
+  "name":"composershare/scanner",
+  "description":"test create a share composer file",
+  "keywords":["urls","scanner","csv"],
+  "homepage":"",
+  "license":"MIT",
+  "authors":[
+    {
+      "name":"tim",
+      "homepage":"",
+      "role":"php developer"
+    }
+  ],
+  "support":"",
+  "require":"",
+  "autoload":{
+    "psr4":{
+      "Composer\\Share\\":"src/"
+    }
+  }
+
+}
